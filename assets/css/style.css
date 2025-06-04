@@ -13,7 +13,8 @@ h1 {
   font-size: 2.5em;
 }
 
-p {
+p,
+section {
   padding-bottom: 20px;
 }
 
@@ -56,4 +57,13 @@ section#top .dida .date {
 
 section#top .caption {
   font-size: .8rem;
+}
+
+section#table table thead {
+  background-color: #1EAAE6;
+  color: white;
+}
+
+section#table table .odd {
+  background-color: #B3E5F2;
 }
