@@ -1,3 +1,19 @@
-#main-box{
-  
+* {
+  margin: 0;
 }
+
+body {}
+
+/******header*****/
+header {
+  padding-top: 30px;
+  padding-left: 20px;
+  background-color: #4ea1ff;
+  background-image: url(../img/pattern.png);
+}
+
+header .logo {
+  width: 200px;
+}
+
+/**/
