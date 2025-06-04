@@ -4,12 +4,19 @@
 
 body {}
 
+main,
+footer {
+  padding: 20px;
+
+}
+
 /******header*****/
 header {
-  padding-top: 30px;
+  padding-top: 40px;
   padding-left: 20px;
   background-color: #4ea1ff;
   background-image: url(../img/pattern.png);
+  background-size: 30%;
 }
 
 header .logo {
