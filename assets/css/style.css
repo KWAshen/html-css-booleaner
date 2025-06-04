@@ -13,6 +13,10 @@ h1 {
   font-size: 2.5em;
 }
 
+p {
+  padding-bottom: 20px;
+}
+
 /******header*****/
 header {
   padding-top: 40px;
@@ -30,6 +34,7 @@ header .logo {
 
 section#top .dida {
   color: #8F8F8F;
+  padding-bottom: 20px;
 }
 
 section#top .dida .name {
@@ -37,5 +42,9 @@ section#top .dida .name {
 }
 
 section#top .dida .date {
+  font-size: .8rem;
+}
+
+section#top .caption {
   font-size: .8rem;
 }
